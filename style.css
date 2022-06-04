@@ -1,0 +1,32 @@
+.center{
+    text-align: center;
+    margin: auto;
+    width: 70%;
+}
+.Produ{
+    margin:auto;
+    background: green;
+    width:950px;
+    overflow:hidden;
+}
+img{
+    width: 475px;
+    height:475px;
+}
+.fridge{
+    border: 1px solid black;
+    overflow: hidden;
+    display:inline-block;
+    text-align: center;
+    float:left;
+    width: 475px;
+}
+.Product{
+    width:500;
+    margin:auto;
+    text-align: center;
+}
+.ImgOfProduct{
+    width: 400px;
+    height: 300px;
+}
